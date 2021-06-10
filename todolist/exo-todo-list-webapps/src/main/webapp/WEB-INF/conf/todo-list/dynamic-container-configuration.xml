@@ -30,11 +30,11 @@
       <init-params>
         <value-param>
           <name>priority</name>
-          <value>5</value>
+          <value>1</value>
         </value-param>
         <value-param>
           <name>containerName</name>
-          <value>top-application-container</value>
+          <value>profile-before-about-me-container</value>
         </value-param>
         <object-param>
           <name>todo-list-portlet</name>
